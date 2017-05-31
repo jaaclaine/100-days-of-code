@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.form-box{
+  margin: 50px auto;
+  padding: 25px;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 0 0 55px rgb(244, 229, 229);
+}
+
+#form-planet{
+  display: block;
+  margin: 0 auto;
+  padding: 20px 50px;
+  max-width: 300px;
+  max-height: 300px;
+  box-sizing: border-box;
+}
+
+.planet-animation{
+  animation: animationOrbit linear 20s;
+  animation-iteration-count: infinite;
+  transform-origin: 50% 50%;
+  -webkit-animation: animationOrbit linear 20s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  fill: green;
+}
+
+@keyframes animationOrbit{
+ 100% {
+    -webkit-transform: rotate(-360deg);
+       -moz-transform: rotate(-360deg);
+        -ms-transform: rotate(-360deg);
+         -o-transform: rotate(-360deg);
+            transform: rotate(-360deg);
+  }
+}
+
+@-webkit-keyframes animationOrbit {
+ 100% {
+    -webkit-transform: rotate(-360deg);
+       -moz-transform: rotate(-360deg);
+        -ms-transform: rotate(-360deg);
+         -o-transform: rotate(-360deg);
+            transform: rotate(-360deg);
+  }
+}

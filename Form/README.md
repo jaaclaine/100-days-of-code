@@ -1,0 +1,15 @@
+## Spec
+- Visual mark of correct field
+- Visual mark of incorrect field
+- Numbers only
+- Mask on a date
+- Select
+- Checkbox
+- Ratio
+- E-mail verification
+- Comparison
+- Password
+- Character count
+- Block the button if not all fields are complete
+- Character counter
+- Obrigatory fields

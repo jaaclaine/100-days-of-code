@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Form sample</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="form-box">
+
+       
+
+      <h1>Come travel with us</h1>
+
+      <form action="script.js" method="post">
+        <h3>Where are you going?</h3>
+
+          <label>Select the planet</label>
+          <select id="travelPlanet" name="">
+            <option>Mercury</option>
+            <option>Venus</option>
+            <option>Earth</option>
+            <option>Mars</option>
+            <option>Jupiter</option>
+            <option>Saturn</option>
+            <option>Uranus</option>
+            <option>Neptune</option>
+          </select>
+
+          <label>What kind of ticket you need?</label>
+          <label for="travelTypeG">
+            <input type="radio" id="travelTypeG" name="typeTravel" value="">
+            Only go
+          </label>
+          <label for="travelTypeGB">
+            <input type="radio" id="travelTypeGB" name="typeTravel" value="">
+            Go and back
+          </label>
+
+          <label>When is your travel?</label>
+          From <input type="text" name="" value="">
+          to  <input type="text" name="" value="">
+
+          <h3>Talk about you</h3>
+          <label>First Name</label>
+          <input type="text" name="" value="">
+          <label>Last Name</label>
+          <input type="text" name="" value="">
+          <label>Country</label>
+          <input type="text" name="" value="">
+          <label>Phone</label>
+          <input type="text" name="" value="">
+          <label>E-mail</label>
+          <input type="text" name="" value="">
+          <label>Confirm e-mail</label>
+          <input type="text" name="" value="">
+          <label>Purpouse of the travel?</label>
+          <textarea></textarea>
+          <label>What do you need?</label>
+          <label for="youSeat">
+            <input type="checkbox" name="youNeed" value="">
+            A seat
+          </label>
+          <label for="youGuide">
+            <input type="checkbox" name="youNeed" value="">
+            A guide
+          </label>
+          <label for="youHelmet">
+            <input type="checkbox" name="youNeed" value="">
+            A Helmet
+          </label>
+
+      </form>
+
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
