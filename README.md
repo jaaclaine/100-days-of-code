@@ -3,7 +3,7 @@ A journey to be a programmer :facepunch: :information_desk_person: :books:
 
 Main focus on Javascript / jQuery / React / Angular / Node and Git.
 
-## To-do list of ideas of projects  
+## Ideas 
 - [ ] Tv show tracker (Tumblr page)
 - [ ] Responsive fonts
 - [ ] Button party (Like / Share / Reaction / 5 stars)
@@ -29,6 +29,6 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - [ ] Spotify API (cd search)
 - [ ] Portfolio
 
-
+## Log 
 - **DAY 001 -** focus on learn Git and started the 'form' project
 - **DAY 002 -** work on css of the 'form' focus on style SVG
