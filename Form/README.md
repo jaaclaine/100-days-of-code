@@ -1,15 +1,16 @@
+## Form
+Objective: do a form verification using pure javascript.
+
 ## Spec
-- Visual mark of correct field
-- Visual mark of incorrect field
-- Numbers only
-- Mask on a date
-- Select
-- Checkbox
-- Ratio
-- E-mail verification
-- Comparison
-- Password
-- Character count
-- Block the button if not all fields are complete
-- Character counter
-- Obrigatory fields
+- [ ] Correct field
+- [ ] Incorrect field
+- [ ] Numbers only field
+- [x] Date mask
+- [x] Select
+- [x] Checkbox
+- [x] Radio
+- [ ] E-mail verification (check @ and .com)
+- [ ] Comparison
+- [ ] Character count
+- [ ] Block the button if not all fields are complete
+- [ ] All fields must be complete

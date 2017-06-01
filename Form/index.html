@@ -13,39 +13,39 @@
 
       <h1>Come travel with us</h1>
 
-      <form action="script.js" method="post">
+
         <h3>Where are you going?</h3>
 
           <span class="title">Select the planet</span>
           <select id="travelPlanet" name="">
-            <option>Choose a planet</option>
-            <option>Mercury</option>
-            <option>Venus</option>
-            <option>Earth</option>
-            <option>Mars</option>
-            <option>Jupiter</option>
-            <option>Saturn</option>
-            <option>Uranus</option>
-            <option>Neptune</option>
+            <option value="none">Choose a planet</option>
+            <option value="Mercury">Mercury</option>
+            <option value="Venus">Venus</option>
+            <option value="Earth">Earth</option>
+            <option value="Mars">Mars</option>
+            <option value="Jupiter">Jupiter</option>
+            <option value="Saturn">Saturn</option>
+            <option value="Uranus">Uranus</option>
+            <option value="Neptune">Neptune</option>
           </select>
 
           <span class="title">What kind of ticket you need?</span>
-          <label for="travelTypeG">
-            <input type="radio" id="travelTypeG" name="typeTravel" value="">
+          <label for="travelTypeG" >
+            <input type="radio" id="travelTypeG" name="typeTravel" value="travelTypeG" checked>
             Only go
           </label>
           <label for="travelTypeGB">
-            <input type="radio" id="travelTypeGB" name="typeTravel" value="">
+            <input type="radio" id="travelTypeGB" name="typeTravel" value="travelTypeGB">
             Go and back
           </label>
           <label for="travelTypeB">
-            <input type="radio" id="travelTypeB" name="typeTravel" value="">
+            <input type="radio" id="travelTypeB" name="typeTravel" value="travelTypeB">
             Only back
           </label>
 
           <span class="title">When is your travel?</span>
-          From <input type="text" class="travel-date" name="" value="">
-          to  <input type="text" class="travel-date" name="" value="">
+          From <input type="text" class="travel-date" id="dateGo" maxlength="10" name="" >
+          to  <input type="text" class="travel-date" id="dateBack" maxlength="10" name="">
 
           <h3>Talk about you</h3>
           <span class="title">First Name</span>
@@ -61,7 +61,7 @@
           <span class="title">Confirm e-mail</span>
           <input type="text" name="" value="">
           <span class="title">Purpouse of the travel?</span>
-          <textarea></textarea>
+          <textarea id="textBox"></textarea>
           <span class="title">What do you need?</span>
           <label for="youSeat">
             <input type="checkbox" id="youSeat" name="youNeed" value="">
@@ -76,9 +76,9 @@
             Helmet
           </label>
 
-          <button>Let's travel! <i class="fa fa-rocket" aria-hidden="true"></i></button>
+          <button id="submit">Let's travel! <i class="fa fa-rocket" aria-hidden="true"></i></button>
 
-      </form>
+
 
     </div>
 
