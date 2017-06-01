@@ -30,5 +30,5 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - [ ] Portfolio
 
 
-## Day 001 - 00/00
-**Today's progress** -
+- **DAY 001 -** focus on learn Git and started the 'form' project
+- **DAY 002 -** work on css of the 'form' focus on style SVG
