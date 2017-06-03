@@ -10,7 +10,7 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - [ ] Pomodoro clock
 - [ ] Dashboard
 - [ ] Hover 3D
-- [ ] Form
+- [x] Form
 - [ ] Paralax
 - [ ] Text page
 - [ ] Game page
@@ -32,3 +32,5 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 ## Log 
 - **DAY 001 -** focus on learn Git and started the 'form' project
 - **DAY 002 -** work on css of the 'form' focus on style SVG
+- **DAY 003 -** started the javascript part
+- **DAY 004 -**  spend so many time searching for thing in javascript that i didn't know how to do, but worthed
