@@ -20,6 +20,13 @@ body{
   background: #fff;
 }
 
+.logo-planet{
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  overflow: hidden;
+}
+
 .form-box h1{
   margin: 0 0 30px 0;
   font-size: 20px;
@@ -162,9 +169,11 @@ body{
   cursor: pointer;
 }
 
-.logo-planet{
-  display: block;
-  margin: 0 auto;
-  width: 200px;
-  overflow: hidden;
+.error{
+  color: #dd2323 !important;
+  border-bottom: 2px solid #dd2323 !important;
+}
+
+#textBox.error{
+  border: 2px solid #dd2323 !important;
 }

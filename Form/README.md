@@ -3,7 +3,7 @@ Objective: do a form verification using pure javascript.
 
 ## Spec
 - [ ] Correct field
-- [ ] Incorrect field
+- [x] Incorrect field
 - [ ] Numbers only field
 - [x] Date mask
 - [x] Select
