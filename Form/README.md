@@ -2,15 +2,14 @@
 Objective: do a form verification using pure javascript.
 
 ## Spec
-- [ ] Correct field
+- [x] Correct field
 - [x] Incorrect field
-- [ ] Numbers only field
+- [x] Numbers only field
 - [x] Date mask
 - [x] Select
 - [x] Checkbox
 - [x] Radio
-- [ ] E-mail verification (check @ and .com)
-- [ ] Comparison
-- [ ] Character count
-- [ ] Block the button if not all fields are complete
-- [ ] All fields must be complete
+- [x] E-mail verification (check @ and .com)
+- [x] Comparison
+- [x] Character count
+- [x] All fields must be complete

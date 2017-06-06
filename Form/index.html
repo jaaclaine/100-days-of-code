@@ -44,8 +44,8 @@
           </label>
 
           <span class="title">When is your travel?</span>
-          From <input type="text" class="travel-date" id="dateGo" maxlength="10" name="" >
-          to  <input type="text" class="travel-date" id="dateBack" maxlength="10" name="">
+          From <input type="text" class="travel-date field-number" id="dateGo" maxlength="10" name="" >
+          to  <input type="text" class="travel-date field-number" id="dateBack" maxlength="10" name="">
 
           <h3>Talk about you</h3>
           <span class="title">First Name</span>
@@ -55,32 +55,31 @@
           <span class="title">Country</span>
           <input type="text" name="" value="">
           <span class="title">Phone</span>
-          <input type="text" name="" value="">
+          <input type="text" class="field-number" name="" value="">
           <span class="title">E-mail</span>
-          <input type="text" name="" value="">
+          <input type="text" id="youEmail" name="" value="">
           <span class="title">Confirm e-mail</span>
-          <input type="text" name="" value="">
+          <input type="text" id="youEmailConf" name="" value="">
           <span class="title">Purpouse of the travel?</span>
-          <textarea id="textBox"></textarea>
+          <textarea id="textBox" ></textarea>
+          <div>Characters left: <span id="chCount"></span> </div>
           <span class="title">What do you need?</span>
           <label for="youSeat">
-            <input type="checkbox" id="youSeat" name="youNeed" value="">
+            <input type="checkbox" name="youNeed" value="">
             Seat
           </label>
           <label for="youGuide">
-            <input type="checkbox" id="youGuide" name="youNeed" value="">
+            <input type="checkbox" name="youNeed" value="">
             Guide
           </label>
           <label for="youHelmet">
-            <input type="checkbox" id="youHelmet" name="youNeed" value="">
+            <input type="checkbox" name="youNeed" value="">
             Helmet
           </label>
 
-          <div id="ok">
-            sdfsdfds
-          </div>
-
           <button id="submit">Let's travel! <i class="fa fa-rocket" aria-hidden="true"></i></button>
+
+          <p style="text-align: center"><b>All fields must be complete</b></p>
 
 
 

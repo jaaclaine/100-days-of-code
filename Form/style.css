@@ -177,3 +177,12 @@ body{
 #textBox.error{
   border: 2px solid #dd2323 !important;
 }
+
+.correct{
+  color: #209c3f !important;
+  border-bottom: 2px solid #209c3f !important;
+}
+
+#textBox.correct{
+  border: 2px solid #209c3f !important;
+}
