@@ -35,27 +35,31 @@ function verify(){
   var emailVal = document.getElementById("youEmail").value;
   var emailValConf = document.getElementById("youEmailConf").value;
 
-  if(emailVal.indexOf("@") <= 0 || emailVal.indexOf(".com") <= 0){
+  if(emailVal.indexOf("@") < 0 || emailVal.indexOf(".com") < 0){
     document.getElementById("youEmail").classList.add("error");
-  } else{
+    document.getElementById("youEmail").classList.remove("correct");
+  } else {
     document.getElementById("youEmail").classList.remove("error");
   }
 
-  if(emailVal !== emailValConf || emailValConf === ""){
+  if(emailVal !== emailValConf ){
     document.getElementById("youEmailConf").classList.add("error");
+    document.getElementById("youEmailConf").classList.remove("correct");
+  } else if(emailValConf === ""){
+    document.getElementById("youEmailConf").classList.add("error");
+    document.getElementById("youEmailConf").classList.remove("correct");
   } else{
     document.getElementById("youEmailConf").classList.remove("error");
   }
 
 }
 
+// Date mask
 document.getElementById("dateGo").addEventListener("keydown", date);
 document.getElementById("dateBack").addEventListener("keydown", date);
 
 function date(){
   var value = this.value;
-
-  // Add the date mask
   if (value.match(/^\d{2}$/) !== null) {
   this.value = value + '/';
 } else if (value.match(/^\d{2}\/\d{2}$/) !== null) {
