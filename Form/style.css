@@ -152,7 +152,6 @@ body{
   opacity: 0;
 }
 
-
 .form-box input[type="checkbox"]:checked:after{
   opacity: 1;
 }

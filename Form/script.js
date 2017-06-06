@@ -1,9 +1,7 @@
 
 document.getElementById("submit").addEventListener("click", verify);
 
-
 function verify(){
-
   //Verify if the fields are empty
   var planet = document.getElementById("travelPlanet");
   if(planet.value === "none"){
@@ -53,7 +51,6 @@ function verify(){
   }
 
 }
-
 // Date mask
 document.getElementById("dateGo").addEventListener("keydown", date);
 document.getElementById("dateBack").addEventListener("keydown", date);
@@ -67,19 +64,16 @@ function date(){
   }
 
 }
-
 // Number fields
 for(i = 0; i < 3; i++){
 document.getElementsByClassName("field-number")[i].addEventListener("keydown", numberOnly);
 }
-
 function numberOnly(value){
   var fieldValue = value.which || value.keyCode;
     if(fieldValue < 48 || fieldValue > 58){
     value.preventDefault();
     }
 }
-
 // Character count on textbox
 document.getElementById("textBox").addEventListener("keydown", counter);
 document.getElementById("chCount").innerHTML = 50;
