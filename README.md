@@ -5,7 +5,6 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 
 ## Ideas 
 - [ ] Tv show tracker (Tumblr page)
-- [ ] Responsive fonts
 - [ ] Button party (Like / Share / Reaction / 5 stars)
 - [ ] Pomodoro clock
 - [ ] Dashboard
@@ -37,5 +36,5 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - **DAY 005 -** working on personal projects
 - **DAY 006 -** helping a friend learn a little bit of codeing count as coding, right? 
 - **DAY 007 -** solve a few problems in form
-- **DAY 008 -** finished form ♥
+- **DAY 008 -** finished form 
 
