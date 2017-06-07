@@ -17,6 +17,7 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - [ ] Text page
 - [ ] Game page
 - [ ] Book shelf
+- [ ] Timeline 
 - [ ] TBR jar
 - [ ] Animation (javascript)
 - [ ] Product details
@@ -32,12 +33,23 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - [ ] Portfolio
 
 ## Log 
-- **DAY 001 -** focus on learn Git and started the 'form' project
-- **DAY 002 -** work on css of the 'form' focus on style SVG
-- **DAY 003 -** started the javascript part
-- **DAY 004 -** spend so many time searching for thing in javascript that i didn't know how to do, but worthed
-- **DAY 005 -** working on personal projects
-- **DAY 006 -** helping a friend learn a little bit of codeing count as coding, right? 
-- **DAY 007 -** solve a few problems in form
-- **DAY 008 -** finished form 
+###### Skiped days
+now: 1
+###### DAY 001
+I have this thing in my mind that I want to be a master on Javascript before go to some framework but I think I need be over this and learn more.
+- Main focus on learn Git 
+- Started the "Form" focused on Javascript only. 
+###### DAY 002 
+- Worked on css file of Form
+- First time animating an SVG
+###### DAY 003 
+- Started the javascript part by indetifying the empity fields
+###### DAY 004
+- Basically spend all the time learning about 'Regular Expressions', but worthed
+###### DAY 005
+- Working on other coding projects
+###### DAY 006
+- Solve a few last problems in form
+###### DAY 007 
+- Finished form 
 
