@@ -36,3 +36,6 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - **DAY 004 -** spend so many time searching for thing in javascript that i didn't know how to do, but worthed
 - **DAY 005 -** working on personal projects
 - **DAY 006 -** helping a friend learn a little bit of codeing count as coding, right? 
+- **DAY 007 -** solve a few problems in form
+- **DAY 008 -** finished form ♥
+
