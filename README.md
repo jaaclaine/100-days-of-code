@@ -6,10 +6,13 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 ## Ideas 
 - [ ] Tv show tracker (Tumblr page)
 - [ ] Button party (Like / Share / Reaction / 5 stars)
+- [ ] Mobile menu party
 - [ ] Pomodoro clock
 - [ ] Dashboard
+- [ ] Calendar (add event)
 - [ ] Hover 3D
 - [x] Form
+- [ ] Local weather
 - [ ] Paralax
 - [ ] Text page
 - [ ] Game page
@@ -24,7 +27,7 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - [ ] Logo SVG animation
 - [ ] Generator
 - [ ] Text Editor
-- [ ] Goodreads API (quotes)
+- [ ] Goodreads API (random quotes)
 - [ ] Spotify API (cd search)
 - [ ] Portfolio
 
