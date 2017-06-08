@@ -14,4 +14,4 @@ Objective: do a form verification using pure javascript.
 - [x] Character count
 - [x] All fields must be complete
 
-**Done!**
+**Done!** :dancers:
