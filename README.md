@@ -55,4 +55,6 @@ I have this thing in my mind that I want to be a master on Javascript before go 
 ###### DAY 007 
 - Finished form, it's far from perfect but I have to let it go :snowflake: the perfectionism and move on
 ###### DAY 008
-
+I don't know if i should learn JQuery right now 
+- Started new project for "Text Page"
+- Did few Javascript challenges 
