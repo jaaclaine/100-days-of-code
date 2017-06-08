@@ -1,5 +1,6 @@
 # 100 days of code
 A journey to be a programmer :facepunch: :information_desk_person: :books:
+Disclaimer: may contain english errors, forgive me. 
 
 Main focus on Javascript / jQuery / React / Angular / Node and Git.
 
@@ -31,10 +32,11 @@ Main focus on Javascript / jQuery / React / Angular / Node and Git.
 - [ ] Goodreads API (random quotes)
 - [ ] Spotify API (cd search)
 - [ ] Portfolio
+- [ ] Redesign
 
 ## Log 
 ###### Skiped days
-now: 1
+Counting: 1
 ###### DAY 001
 I have this thing in my mind that I want to be a master on Javascript before go to some framework but I think I need be over this and learn more.
 - Main focus on learn Git 
@@ -51,5 +53,6 @@ I have this thing in my mind that I want to be a master on Javascript before go 
 ###### DAY 006
 - Solve a few last problems in form
 ###### DAY 007 
-- Finished form 
+- Finished form, it's far from perfect but I have to let it go :snowflake: the perfectionism and move on
+###### DAY 008
 
