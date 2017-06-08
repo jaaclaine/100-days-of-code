@@ -2,7 +2,15 @@
 A journey to be a programmer :facepunch: :information_desk_person: :books:
 Disclaimer: may contain english errors, forgive me. 
 
-Main focus on Javascript / jQuery / React / Angular / Node and Git.
+## Learn list
+- [ ] jQuery 
+- [ ] React 
+- [ ] Angular 
+- [ ] Node
+- [ ] AJAX
+- [ ] JSON
+- [ ] ES6
+- [ ] Vanilla
 
 ## Ideas 
 - [ ] Tv show tracker (Tumblr page)
