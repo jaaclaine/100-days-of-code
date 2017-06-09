@@ -66,3 +66,8 @@ I have this thing in my mind that I want to be a master on Javascript before go 
 I don't know if i should learn JQuery right now 
 - Started new project for "Text Page"
 - Did few Javascript challenges 
+###### DAY 009
+Decide to make an redesign for a text page on [Archive of Our Own](http://archiveofourown.org/)  ~~ and I hope someday i'll be able to contribute, for now github still like a weird machine for me ~~
+- Setup the "Text page" project
+- Lot of research of how contribute to open source projects
+###### DAY 010
