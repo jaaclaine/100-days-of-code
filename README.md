@@ -72,3 +72,6 @@ Decide to make an redesign for a text page on [Archive of Our Own](http://archiv
 - Setup the "Text page" project
 - Lot of research of how contribute to open source projects
 ###### DAY 010
+I've decide use only javascript again.
+- Started the HTML/CSS file
+###### DAY 011
