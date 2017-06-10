@@ -1,16 +1,4 @@
-## Text page
-Objective: do a text page for blog (trying to decide bewteen Javascript or JQuery).
+## Redesign for AO3
+_The Organization for Transformative Works (OTW) is a nonprofit organization, established by fans in 2007, to serve the interests of fans by providing access to and preserving the history of fanworks and fan culture in its myriad forms. We believe that fanworks are transformative and that transformative works are legitimate._
 
-## Spec
-- [ ] Text
-- [ ] Image
-- [ ] Top bar for scroll page height
-- [ ] User profile (hover)
-- [ ] Toggle more info
-- [ ] Smooth scroll
-- [ ] Comments form
-- [ ] Comments profile
-- [ ] Like / Bookmark button
-- [ ] Reaction button
-- [ ] Font size
-- [ ] Quote
+I want to propose a new layout but keep clean and simple, I've saw a few comments about the mobile so I'll focus on this.

@@ -1,1 +1,78 @@
+/* DEFAULT
+-----------------------------*/
+body{
+  margin: 0;
+  padding: 0;
+  color: rgb(41, 43, 44);
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, sans-serif;
+  background: #f4f4f4;
+}
 
+a:hover{text-decoration: none;}
+
+input:focus,
+button:focus,
+select:focus{outline: none;}
+
+/* GRID
+-----------------------------*/
+.clearfix:after,
+.clearfix:before{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+[class*='grid-']{
+  padding: 15px;
+  min-height: 1px;
+  float: left;
+  box-sizing: border-box;
+}
+
+.grid-100{
+  width: 100%;
+  background: blue;
+}
+
+.grid-70{
+  width: 70%;
+  background: green;
+}
+
+.grid-50{
+  width: 50%;
+  background: pink;
+}
+
+.grid-30{
+  width: 30%;
+  background: red;
+}
+
+@media only screen and (max-width: 960px){
+  [class*='grid-']{width: 100% !important;}
+}
+
+/* CONTAINER
+-----------------------------*/
+.container{
+  margin: 0 auto;
+  width: 1200px;
+  min-height: 1px;
+}
+
+@media only screen and (max-width: 1200px){
+  .container{width: 1000px;}
+}
+
+@media only screen and (max-width: 1000px){
+  .container{width:100%;}
+}
+
+/* TOP BAR
+-----------------------------*/
+.top-bar{
+  padding: 15px;
+  background: #fff;
+}
