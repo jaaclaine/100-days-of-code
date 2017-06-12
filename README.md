@@ -75,3 +75,5 @@ Decide to make an redesign for a text page on [Archive of Our Own](http://archiv
 I've decide use only javascript again.
 - Started the HTML/CSS file
 ###### DAY 011
+- Still working on the HTML/CSS files
+- Searching how to explain my decisions on design
