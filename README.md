@@ -79,3 +79,6 @@ I've decide use only javascript again.
 - Searching how to explain my decisions on design
 ###### DAY 012
 - Started 'Object Oriented and Functional Programming' on FreeCodeCamp
+###### DAY 013
+- Finished FreeCodeCamp
+- Worked on javascript file on "text Page"
