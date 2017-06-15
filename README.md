@@ -82,3 +82,6 @@ I've decide use only javascript again.
 ###### DAY 013
 - Finished FreeCodeCamp
 - Worked on javascript file on "text Page"
+###### DAY 014
+So good working on moibile css ♥
+- Worked on javascript and mobile css
