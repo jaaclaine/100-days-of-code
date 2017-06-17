@@ -86,4 +86,6 @@ I've decide use only javascript again.
 So good working on moibile css 
 - Worked on javascript and mobile css
 ###### DAY 015
-- Still working on mobile menu ♥
+- Still working on mobile menu 
+###### DAY 016
+- I THINK I'VE MADE THE MOST AMAZING MOBILE MENU OF MY ENTIRE CARRER :dancer: :facepunch: :star2: :star2: :star2: :star2: :star2:
