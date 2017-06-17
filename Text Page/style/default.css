@@ -1,14 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700');
+
 /* DEFAULT
 -----------------------------*/
 body{
   margin: 0;
   padding: 0;
-  color: rgb(41, 43, 44);
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, sans-serif;
+  color: #292b2c;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
   background: #f4f4f4;
 }
 
-a, a:hover{text-decoration: none;}
+a, a:hover{
+  color: #ad3434;
+  text-decoration: none;
+}
 
 input:focus,
 button:focus,
@@ -189,7 +195,6 @@ select:focus{outline: none;}
 .menu-dropdown_content a:hover{background: rgba(255,255,255,.1)}
 .menu-dropdown_content a:last-of-type{border: none}
 .menu-dropdown_content .fa{margin: 0 5px 0 0; font-size: 11px;}
-.top-menu-mobile{display: none;}
 
 @media only screen and (max-width: 1000px){
   #top-menu{
@@ -219,13 +224,13 @@ select:focus{outline: none;}
 
 /* USER */
 .top-user{
-  margin: 0 0 0 15px;
+  margin: -3px 0 0 15px;
   float: right;
 }
 
 .top-user .menu-dropdown_content{right: 0;}
 
-.user-image{
+.top-user .user-image{
   display: inline-block;
   vertical-align: middle;
   margin: -5px 0 0 0;
@@ -241,7 +246,7 @@ select:focus{outline: none;}
   border: 3px solid #ad3434;
 }
 
-.user-image img{
+.top-user .user-image img{
   width: 100%;
   height: auto !important;
 }

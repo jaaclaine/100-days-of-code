@@ -1,0 +1,67 @@
+/* TEXT
+-----------------------------*/
+.main-text{
+  margin-top: 120px;
+  min-height: 500px;
+}
+
+.main-text h1{
+  margin: 0;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+}
+
+.text-user.grid-50{
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  float: none;
+}
+
+.text-user .user-inside{
+  display: inline-block;
+  position: relative;
+  padding: 0 0 15px 0;
+}
+
+.text-user .user-image{
+  display: inline-block;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #fff;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.text-user .user-image img{
+  width: 100%;
+  height: auto !important;
+}
+
+.text-user .user-name{
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.text-user .user-info{
+  position: absolute;
+  top: 55px;
+  left: calc(50% - 200px);
+  padding: 15px;
+  width: 400px;
+  background: #fff;
+  border-radius: 10px;
+  visibility: hidden;
+  opacity: 0;
+  transition: all .4s ease;
+  box-shadow: 0 0 15px rgb(231, 231, 231);
+}
+
+.user-inside:hover .user-info{
+  top: 50px;
+  visibility: visible;
+  opacity: 1;
+}
