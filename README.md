@@ -89,3 +89,6 @@ So good working on moibile css
 - Still working on mobile menu 
 ###### DAY 016
 - I THINK I'VE MADE THE MOST AMAZING MOBILE MENU OF MY ENTIRE CARRER :dancer: :facepunch: :star2: :star2: :star2: :star2: :star2:
+###### DAY 017 
+- Started the "body" part of "text page"
+- Get a lot of struggle trying to create a loop slide with pure javascript
