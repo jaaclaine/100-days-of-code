@@ -92,3 +92,6 @@ So good working on moibile css
 ###### DAY 017 
 - Started the "body" part of "text page"
 - Get a lot of struggle trying to create a loop slide with pure javascript
+###### DAY 018
+- I think that create a loop slide in pure javascrip shouldn't be this hard, but ok
+- Started to read a few books about object oriented programming
