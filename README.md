@@ -95,3 +95,5 @@ So good working on moibile css
 ###### DAY 018
 - I think that create a loop slide in pure javascrip shouldn't be this hard, but ok
 - Started to read a few books about object oriented programming
+###### DAY 019
+- Great progress today on 'Text Page' :heart_eyes:
