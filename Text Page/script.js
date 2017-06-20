@@ -32,3 +32,44 @@ window.addEventListener("resize", function(){
     document.getElementsByTagName("body")[0].classList.remove("block");
   }
 });
+
+// Status clicks
+document.getElementById("kudos-status").addEventListener("click", function(){
+  var heart = document.getElementById("kudos-icon");
+  if(heart.classList.contains("fa-heart-o")){
+    heart.classList.remove("fa-heart-o");
+    heart.classList.add("fa-heart");
+    this.style.color = "#ad3434";
+  } else{
+    heart.classList.remove("fa-heart");
+    heart.classList.add("fa-heart-o");
+    this.style.color = "#292b2c";
+  }
+});
+document.getElementById("bookmark-status").addEventListener("click", function(){
+  var book = document.getElementById("bookmark-icon");
+  if(book.classList.contains("fa-bookmark-o")){
+    book.classList.remove("fa-bookmark-o");
+    book.classList.add("fa-bookmark");
+    this.style.color = "#ad3434";
+  } else{
+    book.classList.remove("fa-bookmark");
+    book.classList.add("fa-bookmark-o");
+    this.style.color = "#292b2c";
+  }
+});
+
+// Show button
+var textInfo = document.getElementById("text-info");
+var textHeight = document.getElementById("info-inside").offsetHeight + 100;
+var textBtn = document.getElementById("text-show");
+
+textBtn.addEventListener("click", function(){
+  if(textBtn.innerHTML == "SHOW MORE"){
+    textBtn.innerHTML = "SHOW LESS";
+    textInfo.style.height = textHeight + "px";
+  }  else{
+    textBtn.innerHTML = "SHOW MORE";
+    textInfo.style.height = 100 + "px";
+  }
+});

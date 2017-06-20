@@ -65,3 +65,142 @@
   visibility: visible;
   opacity: 1;
 }
+
+.user-info span,
+.user-info a{
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+/* TEXT STATUS
+-----------------------------*/
+.text-status{
+  padding: 15px 0;
+  text-align: center;
+}
+
+.text-status span,
+.text-status a{
+  display: inline-block;
+  padding: 0 5px;
+  color: #292b2c;
+}
+
+.text-status .fa{vertical-align: middle; line-height: 12px;}
+#kudos-status, #bookmark-status{cursor: pointer;}
+
+.text-status .fa-heart,
+.text-status .fa-heart-o {
+  display: inline-block;
+  vertical-align: middle;
+  width: 23px;
+  height: 10px;
+  line-height: 10px;
+}
+
+/* HEART ANIMATION */
+
+.fa-heart{
+  text-align: center;
+  animation: animation-heart linear .6s;
+  animation-iteration-count: 1;
+  -webkit-animation: animation-heart linear .6s;
+  -webkit-animation-iteration-count: 1;
+  -moz-animation: animation-heart linear .6s;
+  -moz-animation-iteration-count: 1;
+  transition: all .4s ease;
+}
+@keyframes animation-heart{
+  0% {font-size: 14px;}
+  30% {font-size: 23px;}
+  60% {font-size: 14px;}
+  80% {font-size: 19px;}
+  100% {font-size: 14px;}
+}
+@-moz-keyframes animation-heart{
+  0% {font-size: 14px;}
+  30% {font-size: 23px;}
+  60% {font-size: 14px;}
+  80% {font-size: 19px;}
+  100% {font-size: 14px;}
+}
+@-webkit-keyframes animation-heart {
+  0% {font-size: 14px;}
+  30% {font-size: 23px;}
+  60% {font-size: 14px;}
+  80% {font-size: 19px;}
+  100% {font-size: 14px;}
+}
+
+/* SUBSCRIBE */
+.subscribe-box{
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  width: 20px;
+  height: 15px;
+  background: #ccc;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.subscribe-box:before{
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  width: 11px;
+  height: 11px;
+  background: #FFF;
+  border-radius: 100%;
+  transition: all .2s ease;
+}
+
+.text-status span input{display: none;}
+
+input:checked + .subscribe-box:before{left: 16px;}
+input:checked + .subscribe-box{background: #ad3434}
+
+/* TEXT INFO
+-----------------------------*/
+#text-info{
+  position: relative;
+  height: 100px;
+  overflow: hidden;
+  transition: all .4s ease;
+}
+
+#text-info h3{
+  margin: 5px 0;
+  padding: 10px 0;
+  font-weight: 100;
+  font-size: 19px;
+  border-bottom: 1px solid #ccc;
+}
+
+#text-info span{
+  display: block;
+  padding: 5px;
+}
+
+#text-info .warnings a{
+  color: #292b2c;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#text-show{
+  position: absolute;
+  bottom: 0;
+  display: block;
+  margin: 20px 0 0 0;
+  padding: 40px 0 0 0;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  background: linear-gradient(180deg, rgba(244, 244, 244,.4) 0%, #F4F4F4 90%);;
+  border: none;
+  cursor: pointer;
+  z-index: 99;
+}
