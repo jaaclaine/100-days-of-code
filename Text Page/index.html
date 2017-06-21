@@ -125,8 +125,9 @@
         <span title="Click me" id="kudos-status"><i id="kudos-icon" class="fa fa-heart-o" aria-hidden="true"></i> 56 Kudos</span>
         <span title="Click me" id="bookmark-status"><i id="bookmark-icon" class="fa fa-bookmark-o" aria-hidden="true"></i> 6 Bookmarks</span>
         <span>Status: Unfinished</span>
-        <span>Subscribe:
+        <span>
           <label for="subscribe-box">
+            Subscribe:
             <input type="checkbox" id="subscribe-box" />
             <span class="subscribe-box"></span>
           </label>
@@ -183,9 +184,94 @@
           <button id="text-show">SHOW MORE</button>
         </div>
 
+      </div><!-- Text info -->
+
+      <div class="text-commands">
+        <span>
+          <button><i class="fa fa-file-text-o" aria-hidden="true"></i> Entire work</button>
+          <button><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous chapter</button>
+          <button>Next chapter <i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+          <button id="share_button">Share <i class="fa fa-share-alt" aria-hidden="true"></i></button>
+          <button id="download_button">Download <i class="fa fa-arrow-down" aria-hidden="true"></i></button>
+        </span>
+      </div><!-- Text commands -->
+
+      <div id="download" class="grid-50">
+        Download formats: <br />
+        <button>MOBI</button>
+        <button>EPUB</button>
+        <button>PDF</button>
+        <button>HTML</button>
+     </div>
+
+     <div id="share" class="clearfix">
+       <div class="clearfix">
+         Share on:
+        <img src="https://image.flaticon.com/icons/svg/174/174848.svg" height="30">
+        <img src="https://image.flaticon.com/icons/svg/174/174876.svg" height="30">
+        <img src="https://image.flaticon.com/icons/svg/174/174863.svg" height="30">
+        <img src="https://image.flaticon.com/icons/svg/174/174875.svg" height="30">
+       </div>
+       <p class="grid-50">Copy and paste the following code to link back to this work (CTRL A/CMD A will select all), or use the Tweet or Tumblr links to share the work on your Twitter or Tumblr account.</p>
+       <textarea class="grid-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec mattis mi, luctus consequat augue. Donec tempus auctor libero, non rhoncus purus volutpat at. Aliquam ac accumsan nunc. Quisque iaculis dui eget felis maximus, vel hendrerit ex mollis. Fusce quam massa, accumsan et dolor in, bibendum placerat magna. Ut sollicitudin aliquam tellus, nec posuere ligula mattis sit amet. Cras lobortis ante sit amet ipsum interdum feugiat.</textarea>
+     </div>
+
+     <select name="Chapters" class="grid-50 select_chapter">
+       <option>Chapters</option>
+       <option>Chapter 1</option>
+       <option>Chapter 2</option>
+       <option>Chapter 3</option>
+     </select>
+
+   </div> <!-- content -->
+
+   <div class="container text-content">
+     <div class="text-control">
+       <button><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Report content</button>
+       <button id="text-hide"><i class="fa fa-eye-slash" aria-hidden="true"></i> Hide creator's style</button>
+       <button id="size-minus">-</button> Font size <button id="size-plus">+</button>
+     </div>
+
+     <div id="text">
+       <div class="notes"> <b>Author notes: </b>
+         In pulvinar vestibulum lectus, quis semper mi venenatis at. Pellentesque eget leo libero. In ipsum mi, volutpat commodo volutpat eget, pulvinar in urna. Etiam ac magna odio. Quisque vestibulum consectetur ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla eu commodo ipsum. Vestibulum nec mauris consequat, bibendum mauris vitae, tristique neque. Nullam faucibus maximus sem sit amet accumsan. Curabitur tempor mauris elit, ut imperdiet velit egestas in. In a odio neque.
+       </div>
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tristique nibh id nibh dictum luctus. Donec nec auctor odio. Sed in malesuada risus, sed sagittis justo. Vivamus venenatis, nulla a mattis hendrerit, nibh diam lacinia risus, vel porttitor eros ipsum sed ex. Proin vel sem felis. Suspendisse viverra erat lacinia libero iaculis, id viverra quam semper. Donec lacinia enim libero. Mauris et tincidunt nulla. Vivamus ipsum metus, tempus sit amet leo a, bibendum pellentesque metus. <i>Nam et egestas sapien.</i> Vivamus in lacus quam. Pellentesque non nisl velit. Donec sed massa mi.</p>
+
+      <p><b>In pulvinar vestibulum lectus, quis semper mi venenatis at.</b> Pellentesque eget leo libero. In ipsum mi, volutpat commodo volutpat eget, pulvinar in urna. Etiam ac magna odio. Quisque vestibulum consectetur ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla eu commodo ipsum. Vestibulum nec mauris consequat, bibendum mauris vitae, tristique neque. Nullam faucibus maximus sem sit amet accumsan. Curabitur tempor mauris elit, ut imperdiet velit egestas in. In a odio neque.</p>
+
+      <p>Sed massa lectus, eleifend a laoreet vel, vestibulum et sapien. In convallis sem ac tortor ornare condimentum. Morbi in mauris vitae diam imperdiet pellentesque maximus vel augue. Mauris aliquam ante quis diam faucibus consectetur. Phasellus nisi leo, malesuada sed dignissim at, hendrerit eu mauris. Sed rhoncus sapien nibh. Suspendisse nec facilisis enim, at tincidunt turpis. Donec porttitor et odio ut condimentum. Integer varius lectus quis est ornare finibus. Vestibulum suscipit, mauris nec tempor tristique, libero magna imperdiet arcu, in dapibus tortor massa eget metus. Fusce magna justo, accumsan at libero ac, finibus tristique libero. Pellentesque et ullamcorper dolor. Sed ac augue lacus.</p>
+
+      <p>Duis rutrum hendrerit iaculis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce eleifend, enim vitae rutrum pulvinar, libero quam feugiat elit, sit amet rhoncus eros mi in arcu. Cras rutrum fermentum elit non condimentum. Integer interdum elementum nisl, nec sagittis orci vehicula commodo. Etiam at dui ac eros porta pretium ac eget est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus eget magna id quam ullamcorper varius at eget urna. Suspendisse viverra velit id sem consectetur tempor. Curabitur hendrerit interdum libero, id tempor ligula mollis non. Curabitur elementum pellentesque enim ut euismod. Nunc imperdiet arcu ac posuere ullamcorper. Donec facilisis fermentum blandit. Nulla vitae turpis ut dolor laoreet finibus. Cras feugiat neque ipsum, ut varius nisl viverra fringilla.</p>
+
+      <p>Vestibulum vestibulum sapien id accumsan scelerisque. Integer quis malesuada ex. Curabitur vitae ex justo. Ut convallis neque a leo egestas suscipit. Curabitur venenatis massa ac rhoncus mattis. Integer tincidunt a felis commodo feugiat. Vestibulum in aliquet est. Vivamus orci ipsum, suscipit fermentum scelerisque non, condimentum imperdiet quam. Donec feugiat nulla a bibendum semper. Praesent porttitor augue in arcu vehicula, a sollicitudin purus malesuada. Praesent ultricies tortor semper purus dictum, id consequat erat scelerisque. Vestibulum eu libero sed massa pulvinar varius at sit amet orci. Integer in elementum risus. Donec tempor vitae nunc eu consequat.</p>
+
+      <div class="notes"> <b>Final notes: </b>
+        In pulvinar vestibulum lectus, quis semper mi venenatis at. Pellentesque eget leo libero. In ipsum mi, volutpat commodo volutpat eget, pulvinar in urna. Etiam ac magna odio. Quisque vestibulum consectetur ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla eu commodo ipsum. Vestibulum nec mauris consequat, bibendum mauris vitae, tristique neque. Nullam faucibus maximus sem sit amet accumsan. Curabitur tempor mauris elit, ut imperdiet velit egestas in. In a odio neque.
       </div>
 
-    </div>
+      <div class="clearfix bottom">
+        <select name="Chapters" class="grid-50 select_chapter">
+          <option>Chapters</option>
+          <option>Chapter 1</option>
+          <option>Chapter 2</option>
+          <option>Chapter 3</option>
+        </select>
+        <button><i class="fa fa-chevron-left" aria-hidden="true"></i> Previous chapter</button>
+        <button><i class="fa fa-file-text-o" aria-hidden="true"></i> Entire work</button>
+        <button>Next chapter <i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+
+        <div class="bottom-kudos">
+          <span><i id="kudos-icon" class="fa fa-heart-o" aria-hidden="true"></i> 56 Kudos</span>
+
+          <a href="/users/ToughKookie">ToughKookie</a>, <a href="/users/Guma_8">Guma_8</a>, <a href="/users/Foofs_Spitfire">Foofs_Spitfire</a>, <a href="/users/plyasovye">plyasovye</a>, <a href="/users/RooSe">RooSe</a>, <a href="/users/Bklove1">Bklove1</a>, <a href="/users/glossys">glossys</a>, <a href="/users/Striped">Striped</a>, <a href="/users/ineedachachabeatboy">ineedachachabeatboy</a>, <a href="/users/littlea99">littlea99</a>, <a href="/users/ThierryMyst">ThierryMyst</a>, <a href="/users/smoljimin">smoljimin</a>, <a href="/users/Ami_4_life">Ami_4_life</a>, <a href="/users/friendly9host">friendly9host</a>, <a href="/users/Baelienigena">Baelienigena</a>, <a href="/users/MyHeartIsOhMyGod">MyHeartIsOhMyGod</a>, <a href="/users/Waywardtwink">Waywardtwink</a>, <a href="/users/galenes">galenes</a>, <a href="/users/Bluhstucks">Bluhstucks</a>, <a href="/users/NatachaZero">NatachaZero</a>, <a href="/users/offthebeat">offthebeat</a>, <a href="/users/ShadaPhoenix">ShadaPhoenix</a>, <a href="/users/Juanimes">Juanimes</a>, <a href="/users/angellychan">angellychan</a>, <a href="/users/TheaBilla">TheaBilla</a>, <a href="/users/cindyrellieee">cindyrellieee</a>, <a href="/users/rallentando">rallentando</a>, <a href="/users/jinjjasyuga">jinjjasyuga</a>, <a href="/users/lostinminjoon">lostinminjoon</a>, <a href="/users/Scribblecrumbs">Scribblecrumbs</a>, <a href="/users/blushmark">blushmark</a>, <a href="/users/nduta">nduta</a>, <a href="/users/gangbang">gangbang</a>, <a href="/users/Amysaysahh">Amysaysahh</a>, <a href="/users/geegirl">geegirl</a>, <a href="/users/WooJico">WooJico</a>, <a href="/users/Vonniexxx">Vonniexxx</a>, <a href="/users/Nykitabanana">Nykitabanana</a>, <a href="/users/taromilktae">taromilktae</a>, <a href="/users/Burningshadows">Burningshadows</a>, <a href="/users/TyoTyo">TyoTyo</a>, <a href="/users/Siuri1322">Siuri1322</a>, <a href="/users/BeginAgain">BeginAgain</a>, <a href="/users/toolovely">toolovely</a>, <a href="/users/Stillmeandyou">Stillmeandyou</a>, <a href="/users/yeolna107">yeolna107</a>, <a href="/users/yeolna107">yeolna107</a>
+        </div>
+
+      </div>
+
+   </div> <!-- text -->
+
+ </div> <!-- content -->
 
     <script type="text/javascript" src="script.js"></script>
     <script src="https://use.fontawesome.com/48320372b1.js"></script>

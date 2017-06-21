@@ -61,7 +61,7 @@ document.getElementById("bookmark-status").addEventListener("click", function(){
 
 // Show button
 var textInfo = document.getElementById("text-info");
-var textHeight = document.getElementById("info-inside").offsetHeight + 100;
+var textHeight = document.getElementById("info-inside").offsetHeight + 55;
 var textBtn = document.getElementById("text-show");
 
 textBtn.addEventListener("click", function(){
@@ -70,6 +70,31 @@ textBtn.addEventListener("click", function(){
     textInfo.style.height = textHeight + "px";
   }  else{
     textBtn.innerHTML = "SHOW MORE";
-    textInfo.style.height = 100 + "px";
+    textInfo.style.height = 120 + "px";
   }
+});
+
+// Toggle commands
+document.getElementById("download_button").addEventListener("click", function(){
+  document.getElementById("download").classList.toggle("active");
+});
+document.getElementById("share_button").addEventListener("click", function(){
+  document.getElementById("share").classList.toggle("active");
+});
+
+// font size
+var txt = document.getElementById("text");
+var txtSize = 14;
+document.getElementById("size-minus").addEventListener("click", function(){
+  if(txtSize > 14){
+    txtSize -= 2;
+    txt.style.fontSize = txtSize + "px";
+  }
+});
+document.getElementById("size-plus").addEventListener("click", function(){
+  txtSize += 2;
+  txt.style.fontSize = txtSize + "px";
+});
+document.getElementById("text-hide").addEventListener("click", function(){
+  document.getElementById("text").classList.toggle("hide");
 });
