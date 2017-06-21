@@ -97,3 +97,5 @@ So good working on moibile css
 - Started to read a few books about object oriented programming
 ###### DAY 019
 - Great progress today on 'Text Page' :heart_eyes:
+###### DAY 020
+- FINISHED THE TEXT PAGE :dancer:
