@@ -23,7 +23,7 @@ Disclaimer: may contain english errors, forgive me.
 - [x] Form
 - [ ] Local weather
 - [ ] Paralax
-- [ ] Text page
+- [x] Text page
 - [ ] Game page
 - [ ] Book shelf
 - [ ] Timeline 
