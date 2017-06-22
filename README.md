@@ -99,3 +99,5 @@ So good working on moibile css
 - Great progress today on 'Text Page' :heart_eyes:
 ###### DAY 020
 - FINISHED THE TEXT PAGE :dancer:
+###### DAY 021
+- Read a lot and watched a few MIT videos
