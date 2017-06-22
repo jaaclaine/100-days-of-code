@@ -61,7 +61,7 @@ document.getElementById("bookmark-status").addEventListener("click", function(){
 
 // Show button
 var textInfo = document.getElementById("text-info");
-var textHeight = document.getElementById("info-inside").offsetHeight + 55;
+var textHeight = document.getElementById("info-inside").offsetHeight + 65;
 var textBtn = document.getElementById("text-show");
 
 textBtn.addEventListener("click", function(){
@@ -92,8 +92,10 @@ document.getElementById("size-minus").addEventListener("click", function(){
   }
 });
 document.getElementById("size-plus").addEventListener("click", function(){
-  txtSize += 2;
-  txt.style.fontSize = txtSize + "px";
+  if(txtSize < 20){
+    txtSize += 2;
+    txt.style.fontSize = txtSize + "px";
+  }
 });
 document.getElementById("text-hide").addEventListener("click", function(){
   document.getElementById("text").classList.toggle("hide");

@@ -167,6 +167,7 @@ input:checked + .subscribe-box{background: #ad3434}
 -----------------------------*/
 #text-info{
   position: relative;
+  margin: 0 0 15px 0;
   height: 120px;
   overflow: hidden;
   transition: all .4s ease;
@@ -322,8 +323,9 @@ input:checked + .subscribe-box{background: #ad3434}
 #text.hide i{font-style: normal;}
 
 #text .notes{
+  margin: 15px 0;
   padding: 15px;
-  background: #ddd;
+  background: #e7e7e7;
   border-radius: 15px;
 }
 
