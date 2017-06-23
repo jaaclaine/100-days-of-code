@@ -100,4 +100,7 @@ So good working on moibile css
 ###### DAY 020
 - FINISHED THE TEXT PAGE :dancer:
 ###### DAY 021
-- Read a lot and watched a few MIT videos
+- Did a few changes on 'Text Page' and worked on personal projects
+###### DAY 022
+- Study about Object Oriented Programming with youtube videos
+- And started with react
