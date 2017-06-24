@@ -104,3 +104,6 @@ So good working on moibile css
 ###### DAY 022
 - Study about Object Oriented Programming with youtube videos
 - And started with react
+###### DAY 023
+- Started with 'javascript the definitive guide'
+- Make few logic challenges
