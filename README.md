@@ -107,3 +107,6 @@ So good working on moibile css
 ###### DAY 023
 - Started with 'javascript the definitive guide'
 - Make few logic challenges
+###### DAY 024
+- Read still as coding?
+- Coding a jcink entire skin for a friend ♥
