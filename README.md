@@ -108,5 +108,5 @@ So good working on moibile css
 - Started with 'javascript the definitive guide'
 - Make few logic challenges
 ###### DAY 024
-- Read still as coding?
-- Coding a jcink entire skin for a friend ♥
+- Read count as coding? Just read 97 things that every programmer should know and take a lot lessons of good practices
+- Coding a jcink skin to help a friend
