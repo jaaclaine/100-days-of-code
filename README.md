@@ -111,3 +111,4 @@ So good working on moibile css
 ###### DAY 025
 - Started React on codecademy
 - Read 'think like a computer scientist'
+- Started the button party with jQuery
