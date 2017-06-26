@@ -103,10 +103,11 @@ So good working on moibile css
 - Did a few changes on 'Text Page' and worked on personal projects
 ###### DAY 022
 - Study about Object Oriented Programming with youtube videos
-- And started with react
 ###### DAY 023
-- Started with 'javascript the definitive guide'
 - Make few logic challenges
 ###### DAY 024
 - Read count as coding? Just read 97 things that every programmer should know and take a lot lessons of good practices
 - Coding a jcink skin to help a friend
+###### DAY 025
+- Started React on codecademy
+- Read 'think like a computer scientist'
