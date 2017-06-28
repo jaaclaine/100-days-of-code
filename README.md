@@ -111,6 +111,6 @@ So good working on moibile css
 ###### DAY 025
 - Started React on codecademy
 - Started the button party with jQuery
-###### DAY 025
+###### DAY 026
 - React curte is under maintance on codecademy so I just finished the jQuery one
 - I AM VERY READY TO DO THE BUTTONS PAGE WITH THE JQUERY  :dancer: :dancer: :dancer: :dancer:
