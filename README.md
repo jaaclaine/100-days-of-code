@@ -115,3 +115,7 @@ So good working on moibile css
 ###### DAY 026
 - React curte is under maintance on codecademy so I just finished the jQuery one
 - I AM VERY READY TO DO THE BUTTONS PAGE WITH THE JQUERY  :dancer: :dancer: :dancer: :dancer:
+###### DAY 027
+- Maybe was a mistake get into Codefights, because I love play games :video_game: and also I love solve problems 
+- Also I get into Open Source Friday because I want so bad SO BAD contribute to open source but I don't know where do I start
+- Codecademy course for react still on maintance so I'll watch videos about it
