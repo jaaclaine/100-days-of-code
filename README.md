@@ -3,7 +3,7 @@ A journey to be a programmer :facepunch: :information_desk_person: :books:
 Disclaimer: may contain english errors, forgive me. 
 
 ## Learn list
-- [ ] jQuery 
+- [x] jQuery 
 - [ ] React 
 - [ ] Angular 
 - [ ] Node
@@ -110,5 +110,7 @@ So good working on moibile css
 - Coding a jcink skin to help a friend
 ###### DAY 025
 - Started React on codecademy
-- Read 'think like a computer scientist'
 - Started the button party with jQuery
+###### DAY 025
+- React curte is under maintance on codecademy so I just finished the jQuery one
+- I AM VERY READY TO DO THE BUTTONS PAGE WITH THE JQUERY  :dancer: :dancer: :dancer: :dancer:
