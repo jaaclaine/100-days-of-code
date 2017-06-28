@@ -3,6 +3,10 @@ _The Organization for Transformative Works (OTW) is a nonprofit organization, es
 
 I want to propose a new layout but keep clean and simple, I've saw a few comments about how the mobile is bad so I'll focus on this.
 
+**Demo**
+[https://codepen.io/jaaclaine/full/BZmezO](https://codepen.io/jaaclaine/full/BZmezO) 
+Please click everywhere
+
 What I did?
 - Create a grid
 - Top bar disapear on scroll but it backs when scroll up
