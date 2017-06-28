@@ -15,3 +15,5 @@ Objective: do a form verification using pure javascript.
 - [x] All fields must be complete
 
 **Done!** :dancers:
+
+test here: [https://codepen.io/jaaclaine/full/owoReG/](https://codepen.io/jaaclaine/full/owoReG/)
