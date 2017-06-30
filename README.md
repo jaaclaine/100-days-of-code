@@ -123,3 +123,6 @@ So good working on moibile css
 - Progress on React on Codecademy
 - Play a little more on Codefights
 - Started the button party
+###### DAY 029
+- I am stated to get addict to Codefights :video_game:
+- progress on button party
