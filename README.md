@@ -126,3 +126,6 @@ So good working on moibile css
 ###### DAY 029
 - I am stated to get addict to Codefights :video_game:
 - progress on button party
+###### DAY 030
+- Codefights 
+- Minnimum progress on button party (maybe MAYBE jquery isn't that easy, or is just me trying to do spetaculars things)
