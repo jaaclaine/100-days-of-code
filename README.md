@@ -129,3 +129,7 @@ So good working on moibile css
 ###### DAY 030
 - Codefights 
 - Minnimum progress on button party (maybe MAYBE jquery isn't that easy, or is just me trying to do spetaculars things)
+###### DAY 031
+- I am feeling that I am getting into a great flow while coding :dancer:
+- Working on jcink skin 
+- And button party 
