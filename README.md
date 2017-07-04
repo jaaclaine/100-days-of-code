@@ -135,3 +135,6 @@ So good working on moibile css
 - And button party 
 ###### DAY 032
 - ReactJS: Part I 57%
+###### DAY 033
+- ReactJS part I: 100% YAY
+- Just gost stuck on codefights challenge but OK
