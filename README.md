@@ -136,5 +136,8 @@ So good working on moibile css
 ###### DAY 032
 - ReactJS: Part I 57%
 ###### DAY 033
-- ReactJS part I: 100% YAY
+- ReactJS: Part I 100% YAY
 - Just gost stuck on codefights challenge but OK
+###### DAY 034
+- A little bit of Codefights
+- Helped my friend on Jcink skin
