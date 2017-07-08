@@ -141,3 +141,9 @@ So good working on moibile css
 ###### DAY 034
 - A little bit of Codefights
 - Helped my friend on Jcink skin
+###### DAY 035
+- I JUST F O R G O T TO UPLOAD HERE AAAAAAAAAAA :sob: *cries in javascript language*
+- Worked on Button party
+###### DAY 035
+- Button party 
+- Read few articles about programming DON'T STOP BELIEVING :facepunch: 
