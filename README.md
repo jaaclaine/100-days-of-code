@@ -150,3 +150,7 @@ So good working on moibile css
 ###### DAY 037
 - Button party is happening and I am in love
 - Short time today so i've just did that D: 
+###### DAY 038
+- Hours go too fast when the code flows
+- Button party
+- Codefights
