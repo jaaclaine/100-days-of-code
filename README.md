@@ -154,3 +154,6 @@ So good working on moibile css
 - Hours go too fast when the code flows
 - Button party
 - Codefights
+###### DAY 039
+- Button party
+- ReactJS: Part II 10%
