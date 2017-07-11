@@ -1,1 +1,202 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
+*{box-sizing: border-box;}
+
+body{
+  color: #fff;
+  font-family:  'Quicksand', sans-serif;
+  background: #302f3d;
+}
+
+section{
+  padding: 50px 0;
+  border-bottom: 1px solid #fff;
+}
+
+h1{
+  text-align: center;
+  font-weight: normal;
+  font-size: 40px;
+}
+
+.teste{background: purple !important}
+
+/* BUTTON ONE
+***********************/
+
+.button-one{
+  position: relative;
+  margin: 50px auto;
+  width: 100px;
+  height: 200px;
+}
+
+.button-one .click{
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 20px;
+  height: 12px;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  cursor: pointer;
+  transition: all .4s ease;
+}
+
+.button-one .click.active{
+  border-top: 2px solid transparent;
+  border-bottom: 2px solid transparent;
+}
+
+.button-one .click:before{
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 3px;
+  width: 20px;
+  height: 2px;
+  background: #fff;
+  transition: all .4s ease;
+}
+
+.button-one .click.active:before{
+  -moz-transform: rotate(50deg);
+  -webkit-transform: rotate(50deg);
+  transform: rotate(50deg);
+}
+
+.button-one .click:after{
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 3px;
+  width: 20px;
+  height: 2px;
+  background: #fff;
+  transition: all .4s ease;
+}
+
+.button-one .click.active:after{
+  -moz-transform: rotate(-50deg);
+  -webkit-transform: rotate(-50deg);
+  transform: rotate(-50deg);
+}
+
+.button-one .item{
+  position: absolute;
+  bottom: 35px;
+  width: 100px;
+  height: 20px;
+  opacity: 0;
+  transition: all .4s ease;
+}
+
+.button-one .item:nth-of-type(2){bottom: 75px;}
+.button-one .item:nth-of-type(3){bottom: 115px;}
+.button-one .item:nth-of-type(4){bottom: 155px;}
+
+.button-one .item.active{bottom: 40px; opacity: 1;}
+.button-one .item.active:nth-of-type(2){bottom: 80px;}
+.button-one .item.active:nth-of-type(3){bottom: 120px;}
+.button-one .item.active:nth-of-type(4){bottom: 160px;}
+
+.button-one .item svg{
+  display: block;
+  margin: 0 auto;
+  width: auto;
+  height: 20px;
+  fill: #D1F2A5;
+}
+
+.button-one .item:nth-of-type(2) svg{fill: #45ADA8;}
+.button-one .item:nth-of-type(3) svg{fill: #FFC48C;}
+.button-one .item:nth-of-type(4) svg{fill: #F56991;}
+
+/* BUTTON TWO
+***********************/
+.button-two{
+  position: relative;
+  margin: 50px auto 0 auto;
+  width: 600px;
+  height: 100px;
+}
+
+.button-two .click{
+  margin: 15px auto;
+  padding: 5px 0;
+  width: 150px;
+  text-align: center;
+  border-bottom: 1px solid #fff;
+  cursor: pointer;
+}
+
+.button-two .content{
+  height: 60px;
+  text-align: center;
+}
+
+.button-two img{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 15px -37px;
+  height: 30px;
+  width: 70px;
+  transition: all .4s ease;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.button-two .content.active img{
+  margin: 0;
+  height: 60px;
+  opacity: 1;
+}
+
+.button-two .content.active img.on{
+  opacity: 1;
+}
+
+.button-two .content.active img.off{
+  height: 30px;
+  margin: 15px 0px;
+  opacity: .5;
+}
+
+
+/* BUTTON THREE
+***********************/
+.button-three{
+  position: relative;
+  margin: 15px auto;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+}
+
+.button-three img{
+  display: inline-block;
+  vertical-align: middle;
+  width: 45px;
+  margin: 0 5px;
+  transition: all .4s ease;
+  cursor: pointer;
+}
+
+.button-three img.on{
+  -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+
+.button-three img.off{
+  -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.button-three img.current{
+  margin: -5px 0;
+  width: 55px;
+  -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
