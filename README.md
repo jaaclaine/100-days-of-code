@@ -157,3 +157,6 @@ So good working on moibile css
 ###### DAY 039
 - Button party
 - ReactJS: Part II 10%
+###### DAY 040
+- Button party is getting to a next level
+- ReactJS: Part II 20% + some videos
