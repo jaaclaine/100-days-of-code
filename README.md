@@ -160,3 +160,5 @@ So good working on moibile css
 ###### DAY 040
 - Button party is getting to a next level
 - ReactJS: Part II 20% + some videos
+###### DAY 041
+- I've spending so many time trying to figure out how to animate with jQuery and i just failed and try to do with css
