@@ -162,3 +162,5 @@ So good working on moibile css
 - ReactJS: Part II 20% + some videos
 ###### DAY 041
 - I've spending so many time trying to figure out how to animate with jQuery and i just failed and try to do with css
+###### DAY 042
+- FINISHED BUTTON PARTY I AM SO HAPPY :dancer: 
