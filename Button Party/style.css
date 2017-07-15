@@ -9,8 +9,7 @@ body{
 }
 
 section{
-  padding: 50px 0;
-  border-bottom: 1px solid #fff;
+  padding: 100px 0;
 }
 
 h1{
@@ -199,4 +198,277 @@ h1{
   width: 55px;
   -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
+}
+
+/* BUTTON THREE
+***********************/
+.button-four:before,
+.button-four:after{
+  content: "";
+  display: block;
+  width: 100%;
+  clear: both;
+}
+
+.button-four .item{
+  width: 25%;
+  float: left;
+}
+
+.button-four .item .one{
+  position: relative;
+  margin: 15px auto;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+.button-four .item .one img{cursor: pointer;}
+
+.button-four .item .one .up{
+  position: absolute;
+  bottom: 50px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  background: #fb7aa0;
+  border-radius: 100%;
+  opacity: 0;
+  transition: all .4s ease;
+}
+
+.button-four .item .one .up.on{
+    animation: toTheSky linear 1s;
+  animation-iteration-count: infinite;
+  -webkit-animation: toTheSky linear 1s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@keyframes toTheSky{
+  0% {
+    bottom: 50px;
+    opacity: 1;
+  }
+  85%{
+    bottom: 75px;
+    opacity: 1;
+  }
+  100% {
+    bottom: 80px;
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes toTheSky {
+  0% {
+    bottom: 50px;
+    opacity: 1;
+  }
+  85%{
+    bottom: 75px;
+    opacity: 1;
+  }
+  100% {
+    bottom: 80px;
+    opacity: 0;
+  }
+}
+
+.button-four .item .two{
+  position: relative;
+  margin: 15px auto;
+  width: 30px;
+  height: 30px;
+}
+
+.button-four .item .two svg path{fill: #F5F5F5;}
+
+.button-four .item .two .heart{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  transition: all .4s ease;
+}
+
+.button-four .item .three{
+  position: relative;
+  margin: 15px auto;
+  width: 30px;
+  height: 30px;
+}
+
+.button-four .three .icon{
+  position: relative;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  background: #fff;
+  border-radius: 100%;
+  z-index: 3;
+  cursor: pointer;
+}
+
+.button-four .three .icon img{
+  display: block;
+  width: 20px;
+  height: auto;
+  transition: all .4s ease;
+  -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.button-four .three .icon.on img{
+  margin: -15px;
+  width: 50px;
+  -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+
+.button-four .three .thanks{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  color: #000;
+  text-align: right;
+  line-height: 30px;
+  border-radius: 50px;
+  overflow: hidden;
+  background: pink;
+  transition: all .4s ease;
+}
+
+.button-four .three .thanks span{
+  display: block;
+  padding: 0 15px;
+  width: 200px;
+}
+
+.button-four .three .thanks.on{
+  width: 200px;
+  background: #fff;
+}
+
+.button-four .four{
+  position: relative;
+  margin: 15px auto;
+  width: 50px;
+  height: 50px;
+}
+
+.button-four .four .heart{
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.button-four .four svg path{fill: #F5F5F5;}
+.button-four .four.on svg path{fill: #F05228;}
+
+.button-four .four .big-ball{
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background: none;
+  transition: all .4s ease;
+  z-index: -1;
+}
+
+.button-four .four.on .big-ball{
+  animation: bubblePop linear .3s;
+animation-iteration-count: 1;
+-webkit-animation: bubblePop linear .3s;
+-webkit-animation-iteration-count: 1;
+}
+
+@keyframes bubblePop{
+  0%{
+    z-index: 9;
+    border: 20px solid #cc8ef5;
+  }
+  100% {
+    z-index: 9;
+    border: 0px solid #cc8ef5;
+  }
+}
+
+@-webkit-keyframes bubblePop{
+  0%{
+    z-index: 9;
+    border: 20px solid #cc8ef5;
+  }
+  100% {
+    z-index: 9;
+    border: 0px solid #cc8ef5;
+  }
+}
+
+.button-four .four .small-ball{
+  position: absolute;
+  top: 22px;
+  left: 22px;
+  width: 5px;
+  height: 5px;
+  background: yellow;
+  border-radius: 100%;
+  opacity: 0;
+  transition: all .4s ease;
+}
+
+.small-ball:after{
+  content: "";
+  position: absolute;
+  display: block;
+  bottom: -6px !important;
+  left: -6px !important;
+  width: 5px;
+  height: 5px;
+  background: pink;
+  border-radius: 100%;
+  transition: all .4s ease;
+}
+
+.button-four .four.on .small-ball,
+.button-four .four.on .small-ball:after{
+  animation: confettiDot linear .5s;
+    animation-iteration-count: 1;
+    animation-delay: .2s;
+-webkit-animation: confettiDot linear .5s;
+-webkit-animation-iteration-count: 1;
+-webkit-animation-delay: .2s;
+}
+
+@keyframes confettiDot{
+  0% {
+    opacity: 1;
+  }
+  100% {
+    width: 0px;
+    height: 0px;
+  }
+}
+
+@-webkit-keyframes confettiDot{
+  0% {
+    opacity: 1;
+  }
+  100% {
+    width: 0px;
+    height: 0px;
+  }
 }
