@@ -5,4 +5,4 @@ A lot of kinds of buttons to practice jQuery.
 - [x] Stars
 - [x] Like Button
 
-Please click everywhere [https://codepen.io/jaaclaine/full/GELyyV/](https://codepen.io/jaaclaine/full/GELyyV/)
+Please click everywhere (more than one time) [https://codepen.io/jaaclaine/full/GELyyV/](https://codepen.io/jaaclaine/full/GELyyV/)
