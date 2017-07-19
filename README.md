@@ -170,3 +170,6 @@ So good working on moibile css
 ###### DAY 044
 - Started the portfolio 
 - Search for a good project to do with React
+###### DAY 045
+- Just made a few things on my portfolio 
+- Search how to make an twitter bot 
