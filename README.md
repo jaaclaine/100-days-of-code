@@ -165,11 +165,14 @@ So good working on moibile css
 ###### DAY 042
 - FINISHED BUTTON PARTY I AM SO HAPPY :dancer: 
 ###### DAY 043
-- Codefight 
-- Just a bit of react II
+- Codefights
+- Read more about programming logic
 ###### DAY 044
 - Started the portfolio 
-- Search for a good project to do with React
+- I am searching fot a good project that I can use React
 ###### DAY 045
-- Just made a few things on my portfolio 
-- Search how to make an twitter bot 
+- Upload my portfolio :heart: 
+###### DAY 046
+- Search about how to make a twitter bot
+- Read about good practices with Javascript and React
+
