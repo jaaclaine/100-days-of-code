@@ -14,12 +14,12 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Vanilla
 
 ## Ideas 
-- [ ] Tv show tracker (Tumblr page)
-- [ ] Button party (Like / Share / Reaction / 5 stars)
+- [ ] Tv show tracker 
+- [x] Button party (Like / Share / Reaction / 5 stars)
 - [ ] Mobile menu party
 - [ ] Pomodoro clock
 - [ ] Dashboard
-- [ ] Calendar (add event)
+- [x] Calendar (add event)
 - [ ] Hover 3D
 - [x] Form
 - [ ] Local weather
@@ -29,7 +29,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Book shelf
 - [ ] Timeline 
 - [ ] TBR jar
-- [ ] Animation (javascript)
+- [ ] Animation 
 - [ ] Product details
 - [ ] Drag and drop
 - [ ] "Crack the code" game
@@ -40,8 +40,8 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Text Editor
 - [ ] Goodreads API (random quotes)
 - [ ] Spotify API (cd search)
-- [ ] Portfolio
-- [ ] Redesign
+- [x] Portfolio
+- [x] Redesign
 
 ## Log 
 ###### Skiped days
