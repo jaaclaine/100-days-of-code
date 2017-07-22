@@ -17,7 +17,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Tv show tracker 
 - [x] Button party (Like / Share / Reaction / 5 stars)
 - [ ] Mobile menu party
-- [ ] Pomodoro clock
+- [x] Pomodoro clock
 - [ ] Dashboard
 - [x] Calendar (add event)
 - [ ] Hover 3D
@@ -175,4 +175,5 @@ So good working on moibile css
 ###### DAY 046
 - Search about how to make a twitter bot
 - Read about good practices with Javascript and React
-
+###### DAY 047
+- At very beginner of my learning of Javascript i've tried to do one tutorial of an pomodoro clock and I just couldn't do, I was so frustrated, and righ now I can do a perfect Pomodoro clock quick, proud of myself :facepunch:
