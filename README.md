@@ -12,6 +12,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] JSON
 - [ ] ES6
 - [ ] Vanilla
+- [ ] Flexbox
 
 ## Ideas 
 - [ ] Tv show tracker 
