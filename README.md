@@ -33,7 +33,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Animation 
 - [ ] Product details
 - [ ] Drag and drop
-- [ ] "Crack the code" game
+- [x] "Crack the code" game
 - [ ] Search filter
 - [ ] Doodle board
 - [ ] Logo SVG animation
