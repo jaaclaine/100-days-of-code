@@ -178,3 +178,9 @@ So good working on moibile css
 - Read about good practices with Javascript and React
 ###### DAY 047
 - At very beginner of my learning of Javascript i've tried to do one tutorial of an pomodoro clock and I just couldn't do, I was so frustrated, and righ now I can do a perfect Pomodoro clock quick, proud of myself :facepunch:
+###### DAY 048
+- I DID A "CRACK THE CODE GAME" and omg this is one of the thing I wanted so bad to do
+###### DAY 049
+- Search a few resources about React trying to get a more deep information about it
+- made a few little tests
+- search about how to use APIs
