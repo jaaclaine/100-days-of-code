@@ -182,5 +182,7 @@ So good working on moibile css
 - I DID A "CRACK THE CODE GAME" and omg this is one of the thing I wanted so bad to do
 ###### DAY 049
 - Search a few resources about React trying to get a more deep information about it
-- made a few little tests
-- search about how to use APIs
+- a beginner search about APIs
+###### DAY 050
+- Setup my computer to start a Dashboard project with React and Node
+- YT videos about React
