@@ -187,4 +187,4 @@ So good working on moibile css
 - Setup my computer to start a Dashboard project with React and Node
 - YT videos about React
 ###### DAY 051
-- Login to practice AJAX
+- Login to practice AJAX but I have no place to test and show an example I am really sad
