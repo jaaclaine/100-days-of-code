@@ -8,7 +8,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] React 
 - [ ] Angular 
 - [ ] Node
-- [ ] AJAX
+- [x] AJAX
 - [ ] JSON
 - [ ] ES6
 - [ ] Vanilla
@@ -186,3 +186,5 @@ So good working on moibile css
 ###### DAY 050
 - Setup my computer to start a Dashboard project with React and Node
 - YT videos about React
+###### DAY 051
+- Login to practice AJAX
