@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500');
+
+body{
+	margin: 0;
+	padding: 0;
+	color: #363954;
+	font-family: 'Montserrat', sans-serif;
+	background: #fafcfe;
+}
+
+*:focus{outline: none;}
+
+::-webkit-input-placeholder { 
+    color:    #fff;
+}
+:-moz-placeholder { 
+   color:    #fff;
+   opacity:  1;
+}
+::-moz-placeholder { 
+   color:    #fff;
+   opacity:  1;
+}
+:-ms-input-placeholder { 
+   color:    #fff;
+}
+::-ms-input-placeholder { 
+   color:    #fff;
+}
+
+/* LOGIN
+-----------------------------------*/
+#login{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	z-index: 3;
+	overflow: hidden;
+	transition: all .4s ease;
+}
+
+#login:before{
+	content: "";
+	position: absolute;
+	top: -5vh;
+	left: -5%;
+	width: 110%;
+	height: 110vh;
+	background: url(bg.jpg) center center;
+	background-size: cover;
+	z-index: -2;
+	-webkit-filter: blur(10px); 
+            filter: blur(10px);
+}
+
+#login:after{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100vh;
+	background: rgba(0,0,0,.2);
+	z-index: -1;
+}
+
+.fade{
+	animation: bye linear 2s;
+	animation-iteration-count: 1;
+	-webkit-animation: bye linear 2s;
+	-webkit-animation-iteration-count: 1;
+	-moz-animation: bye linear 2s;
+	-moz-animation-iteration-count: 1;
+}
+
+@keyframes bye{
+  70% {
+    opacity: 0;
+    -ms-transform: scale(2); 
+    -webkit-transform: scale(2); 
+    transform: scale(2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@-moz-keyframes bye{
+  70% {
+    opacity: 0;
+    -ms-transform: scale(2); 
+    -webkit-transform: scale(2); 
+    transform: scale(2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes bye {
+  70% {
+    opacity: 0;
+    -ms-transform: scale(2); 
+    -webkit-transform: scale(2); 
+    transform: scale(2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.box{
+	position: relative;
+	margin: calc(50vh - 120px) auto;
+	width: 200px;
+	height: 240px;
+	overflow: hidden;
+}
+
+.box .image{
+	margin: 5px auto 15px auto;
+	width: 100px;
+	height: 100px;
+}
+
+.box .image svg{
+	margin: 18px 0 0 0;
+	width: auto;
+	max-height: 60px;
+}
+
+.box .image span{
+	display: block;
+	font-size: 60px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.box input{
+	display: block;
+	margin: 5px 0;
+	padding: 5px;
+	width: 100%;
+	color: #fff;
+	font-size: 15px;
+	text-align: center;
+	background: none;
+	border: none;
+	border-bottom: 1px solid #fff;
+}
+
+.box button{
+	display: block;
+	margin: 25px auto 0 auto;
+	padding: 10px 20px;
+	width: 100px;
+	font-size: 9px;
+	text-transform: uppercase;
+	background: #fff;
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+/* DASHBOARD
+-----------------------------------*/
+header{
+	position: relative;
+	width: 100%;
+	height: 300px;
+}
+
+header:before{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 300px;
+	background: url(bg2.jpg) center center;
+	background-size: cover;
+	z-index: -2;
+	-webkit-filter: grayscale(100%); 
+            filter: grayscale(100%);
+}
+
+header:after{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 300px;
+	background: #957ebe;
+	mix-blend-mode: multiply;
+}
+
+.container{
+	position: relative;
+	margin: 0 auto;
+	width: 1000px;
+	z-index: 9;
+}
+
+.container h1{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 0 15px;
+	font-weight: normal;
+}
+
+.idx-image{
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	margin: -50px 0 0 0;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	background: #7361aa;
+	border: 2px solid #fff;
+	border-radius: 100%;
+}
+
+.idx-image:after{
+	content: "";
+	display: block;
+	position: absolute;
+	right: 5px;
+	bottom: 10px;
+	width: 10px;
+	height: 10px;
+	background: green;
+	border: 2px solid #fff;
+	border-radius: 100%;
+}
+
+.idx-image svg{
+	margin: 12px auto;
+	width: auto;
+	height: 70px;
+	fill: #fff;
+}
+
+.idx-cards{
+	margin: 50px auto;
+	width: 660px;
+}
+
+.idx-cards:before,
+.idx-cards:after{
+	content: "";
+	display: block;
+	width: 100%;
+	height: 1px;
+	clear: both;
+}
+
+.cards{
+	margin: 10px;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 0 25px #c3c3c3;
+	float: left;
+}
+
+.cards.purple{
+	color: #fff;
+	text-align: left;
+	background: linear-gradient(129deg, #957ebe, #494986);
+}
+
+.cards svg{
+	margin: 25px auto;
+	width: auto;
+	height: 150px;
+	fill: #494986;
+}
+
+.cards p{
+	margin: 0;
+	padding: 20px;
+	font-size: 13px;
+}
