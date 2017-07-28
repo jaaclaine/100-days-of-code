@@ -8,7 +8,7 @@ document.getElementById("name").addEventListener("keyup", function(){
 
 
 document.getElementById("ok").addEventListener("click", function(){
-document.getElementById("log").classList.add("fade");
+document.getElementById("login").classList.add("fade");
 this.style.background = "red";
 });
 
