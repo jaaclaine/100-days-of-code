@@ -188,3 +188,8 @@ So good working on moibile css
 - YT videos about React
 ###### DAY 051
 - Login to practice AJAX but I have no place to test and show an example I am really sad
+###### DAY 052
+- Today I've started with Node.js and I've find out that this may help me with my AJAX problem
+###### DAY 053
+- Codefights
+- Helped a friend with a code
