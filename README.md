@@ -9,9 +9,8 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Angular 
 - [ ] Node
 - [x] AJAX
-- [ ] JSON
+- [X] JSON
 - [ ] ES6
-- [ ] Vanilla
 - [ ] Flexbox
 
 ## Ideas 
