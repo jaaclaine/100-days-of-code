@@ -192,4 +192,6 @@ So good working on moibile css
 - Today I've started with Node.js and I've find out that this may help me with my AJAX problem
 ###### DAY 053
 - Codefights
-- Helped a friend with a code
+- Helped a friend with a code and edn up teaching code all day
+###### DAY 054
+- Upload portfolio and resume
