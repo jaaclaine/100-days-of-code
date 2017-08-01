@@ -195,3 +195,5 @@ So good working on moibile css
 - Helped a friend with a code and edn up teaching code all day
 ###### DAY 054
 - Upload portfolio and resume
+###### DAY 055
+- I've falling in love with The Coding Train videos, I just spend all day doing the coding challenges
