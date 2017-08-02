@@ -196,3 +196,6 @@ So good working on moibile css
 - Upload portfolio and resume
 ###### DAY 055
 - I've falling in love with The Coding Train videos, I just spend all day doing the coding challenges
+###### DAY 056
+- Started the text editor with pure javascript, because I don't know why but I like more javascript than jQuery
+- Watched a few videos about Node.js and I'll build a Twitter bot 
