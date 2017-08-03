@@ -199,3 +199,5 @@ So good working on moibile css
 ###### DAY 056
 - Started the text editor with pure javascript, because I don't know why but I like more javascript than jQuery
 - Watched a few videos about Node.js and I'll build a Twitter bot 
+###### DAY 057
+- Finished Text Editor :dance: it was so quicky
