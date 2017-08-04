@@ -4,13 +4,12 @@ A journey to be a programmer :facepunch: :information_desk_person: :books:
 Disclaimer: may contain english errors, forgive me. 
 
 ## Learn list
-- [x] jQuery 
-- [ ] React 
-- [ ] Angular 
-- [ ] Node
-- [x] AJAX
-- [X] JSON
+- [x] Javascript
 - [ ] ES6
+- [x] jQuery 
+- [ ] Node (now learning)
+- [ ] React (now learning)
+- [ ] Angular 
 - [ ] Flexbox
 
 ## Ideas 
@@ -37,7 +36,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Doodle board
 - [ ] Logo SVG animation
 - [ ] Generator
-- [ ] Text Editor
+- [x] Text Editor
 - [ ] Goodreads API (random quotes)
 - [ ] Spotify API (cd search)
 - [x] Portfolio
@@ -201,3 +200,5 @@ So good working on moibile css
 - Watched a few videos about Node.js and I'll build a Twitter bot 
 ###### DAY 057
 - Finished Text Editor :dance: it was so quicky
+###### DAY 058
+- More studies with videos about node.js and a few tests
