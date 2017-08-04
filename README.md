@@ -190,7 +190,7 @@ So good working on moibile css
 - Today I've started with Node.js and I've find out that this may help me with my AJAX problem
 ###### DAY 053
 - Codefights
-- Helped a friend with a code and edn up teaching code all day
+- Helped a friend with a code and teach about HTML&CSS
 ###### DAY 054
 - Upload portfolio and resume
 ###### DAY 055
@@ -199,6 +199,6 @@ So good working on moibile css
 - Started the text editor with pure javascript, because I don't know why but I like more javascript than jQuery
 - Watched a few videos about Node.js and I'll build a Twitter bot 
 ###### DAY 057
-- Finished Text Editor :dance: it was so quicky
+- Finished Text Editor :dancer: it was so quicky
 ###### DAY 058
-- More studies with videos about node.js and a few tests
+- More studies with videos about node.js and a few small tests
