@@ -9,6 +9,7 @@ Disclaimer: may contain english errors, forgive me.
 - [x] jQuery 
 - [ ] Node (now learning)
 - [ ] React (now learning)
+- [ ] API (now learning)
 - [ ] Angular 
 - [ ] Flexbox
 
@@ -202,3 +203,7 @@ So good working on moibile css
 - Finished Text Editor :dancer: it was so quicky
 ###### DAY 058
 - More studies with videos about node.js and a few small tests
+###### DAY 058
+- Did a few changes on text editor
+- Start the twitter bot code
+- Read about API
