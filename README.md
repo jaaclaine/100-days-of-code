@@ -7,6 +7,7 @@ Disclaimer: may contain english errors, forgive me.
 - [x] Javascript
 - [ ] ES6
 - [x] jQuery 
+- [x] JSON
 - [ ] Node (now learning)
 - [ ] React (now learning)
 - [ ] API (now learning)
@@ -203,7 +204,10 @@ So good working on moibile css
 - Finished Text Editor :dancer: it was so quicky
 ###### DAY 058
 - More studies with videos about node.js and a few small tests
-###### DAY 058
+###### DAY 059
 - Did a few changes on text editor
 - Start the twitter bot code
 - Read about API
+###### DAY 060
+- Still working on twitter bot
+- Did a few basic algorithm scripting on FreeCodeCamp
