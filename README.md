@@ -44,8 +44,6 @@ Disclaimer: may contain english errors, forgive me.
 - [x] Redesign
 
 ## Log 
-###### Skiped days
-Counting: 1
 ###### DAY 001
 I have this thing in my mind that I want to be a master on Javascript before go to some framework but I think I need be over this and learn more.
 - Main focus on learn Git 
