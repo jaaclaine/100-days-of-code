@@ -8,6 +8,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] ES6
 - [x] jQuery 
 - [x] JSON
+- [x] AJAX  
 - [ ] Node (now learning)
 - [ ] React (now learning)
 - [ ] API (now learning)
@@ -21,7 +22,6 @@ Disclaimer: may contain english errors, forgive me.
 - [x] Pomodoro clock
 - [ ] Dashboard
 - [x] Calendar (add event)
-- [ ] Hover 3D
 - [x] Form
 - [ ] Local weather
 - [ ] Paralax
@@ -29,7 +29,6 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Game page
 - [ ] Book shelf
 - [ ] Timeline 
-- [ ] TBR jar
 - [ ] Animation 
 - [ ] Product details
 - [ ] Drag and drop
@@ -39,7 +38,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Logo SVG animation
 - [ ] Generator
 - [x] Text Editor
-- [ ] Goodreads API (random quotes)
+- [ ] Goodreads API (TBR jar)
 - [ ] Spotify API (cd search)
 - [x] Portfolio
 - [x] Redesign
@@ -211,3 +210,4 @@ So good working on moibile css
 ###### DAY 060
 - Still working on twitter bot
 - Did a few basic algorithm scripting on FreeCodeCamp
+###### DAY 061
