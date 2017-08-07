@@ -209,3 +209,6 @@ So good working on moibile css
 - Still working on twitter bot
 - Did a few basic algorithm scripting on FreeCodeCamp
 ###### DAY 061
+- Just discovery the world of npm and I AM GOING CRAZY, so many Ideas :fire:
+- Started with es6
+- watched a few videos about JSON and AJAX
