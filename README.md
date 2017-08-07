@@ -9,8 +9,8 @@ Disclaimer: may contain english errors, forgive me.
 - [x] jQuery 
 - [x] JSON
 - [x] AJAX  
-- [ ] Node (now learning)
-- [ ] React (now learning)
+- [ ] Node.js (now learning)
+- [ ] React.js (now learning)
 - [ ] API (now learning)
 - [ ] Angular 
 - [ ] Flexbox
