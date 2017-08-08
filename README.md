@@ -212,3 +212,7 @@ So good working on moibile css
 - Just discovery the world of npm and I AM GOING CRAZY, so many Ideas :fire:
 - Started with es6
 - watched a few videos about JSON and AJAX
+###### DAY 062
+- Study more abour es6
+- Did a few changes on my portfolio
+- Helped a friend who's learning HTML & CSS
