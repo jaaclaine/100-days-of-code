@@ -216,3 +216,5 @@ So good working on moibile css
 - Study more abour es6
 - Did a few changes on my portfolio
 - Helped a friend who's learning HTML & CSS
+###### DAY 063
+- Worked on twitter bot and made a few tests
