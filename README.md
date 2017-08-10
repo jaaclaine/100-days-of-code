@@ -213,8 +213,11 @@ So good working on moibile css
 - Started with es6
 - watched a few videos about JSON and AJAX
 ###### DAY 062
-- Study more abour es6
+- Study more about es6
 - Did a few changes on my portfolio
 - Helped a friend who's learning HTML & CSS
 ###### DAY 063
 - Worked on twitter bot and made a few tests
+###### DAY 064
+- Spend lot and lot time on my Twitter Bot because of an mistake ): but I learned a lot with that
+- Now I am so excited because I am almost finish my bot :gem:
