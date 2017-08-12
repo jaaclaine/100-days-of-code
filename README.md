@@ -40,6 +40,7 @@ Disclaimer: may contain english errors, forgive me.
 - [x] Text Editor
 - [ ] Goodreads API (TBR jar)
 - [ ] Spotify API (cd search)
+- [ x] Twitter Bot
 - [x] Portfolio
 - [x] Redesign
 
@@ -221,3 +222,9 @@ So good working on moibile css
 ###### DAY 064
 - Spend lot and lot time on my Twitter Bot because of an mistake ): but I learned a lot with that
 - Now I am so excited because I am almost finish my bot :gem:
+###### DAY 065
+- A twitter bot was never in my plans and it was just one of most amazing thing that i've build now is finished and running
+###### DAY 066
+- Final changes on Twitter bot
+- ES6 video
+- Start with React.js on Node.js
