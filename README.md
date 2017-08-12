@@ -211,10 +211,8 @@ So good working on moibile css
 - Did a few basic algorithm scripting on FreeCodeCamp
 ###### DAY 061
 - Just discovery the world of npm and I AM GOING CRAZY, so many Ideas :fire:
-- Started with es6
 - watched a few videos about JSON and AJAX
 ###### DAY 062
-- Study more about es6
 - Did a few changes on my portfolio
 - Helped a friend who's learning HTML & CSS
 ###### DAY 063
@@ -226,5 +224,5 @@ So good working on moibile css
 - A twitter bot was never in my plans and it was just one of most amazing thing that i've build now is finished and running
 ###### DAY 066
 - Final changes on Twitter bot
-- ES6 video
-- Start with React.js on Node.js
+###### DAY 067
+- Started search filter with react.js
