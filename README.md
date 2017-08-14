@@ -182,7 +182,6 @@ So good working on moibile css
 - Search a few resources about React trying to get a more deep information about it
 - a beginner search about APIs
 ###### DAY 050
-- Setup my computer to start a Dashboard project with React and Node
 - YT videos about React
 ###### DAY 051
 - Login to practice AJAX but I have no place to test and show an example I am really sad
@@ -225,6 +224,6 @@ So good working on moibile css
 ###### DAY 066
 - Final changes on Twitter bot
 ###### DAY 067
-- Started search filter with react.js
+- Setup Node.js and React.js
 ###### DAY 068
-- Videos about React
+- Start the tic-tac-toe project on React.js
