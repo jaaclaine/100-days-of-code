@@ -226,3 +226,5 @@ So good working on moibile css
 - Final changes on Twitter bot
 ###### DAY 067
 - Started search filter with react.js
+###### DAY 068
+- Videos about React
