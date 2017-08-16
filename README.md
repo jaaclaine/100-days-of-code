@@ -40,7 +40,7 @@ Disclaimer: may contain english errors, forgive me.
 - [x] Text Editor
 - [ ] Goodreads API (TBR jar)
 - [ ] Spotify API (cd search)
-- [ x] Twitter Bot
+- [x] Twitter Bot
 - [x] Portfolio
 - [x] Redesign
 
@@ -112,7 +112,7 @@ So good working on moibile css
 - Started React on codecademy
 - Started the button party with jQuery
 ###### DAY 026
-- React curte is under maintance on codecademy so I just finished the jQuery one
+- React curse is under maintance on codecademy so I just finished the jQuery one
 - I AM VERY READY TO DO THE BUTTONS PAGE WITH THE JQUERY  :dancer: :dancer: :dancer: :dancer:
 ###### DAY 027
 - Maybe was a mistake get into Codefights, because I love play games :video_game: and also I love solve problems 
@@ -158,7 +158,7 @@ So good working on moibile css
 - ReactJS: Part II 10%
 ###### DAY 040
 - Button party is getting to a next level
-- ReactJS: Part II 20% + some videos
+- ReactJS: Part II 20% 
 ###### DAY 041
 - I've spending so many time trying to figure out how to animate with jQuery and i just failed and try to do with css
 ###### DAY 042
@@ -182,7 +182,7 @@ So good working on moibile css
 - Search a few resources about React trying to get a more deep information about it
 - a beginner search about APIs
 ###### DAY 050
-- YT videos about React
+- Codefights
 ###### DAY 051
 - Login to practice AJAX but I have no place to test and show an example I am really sad
 ###### DAY 052
@@ -227,3 +227,7 @@ So good working on moibile css
 - Setup Node.js and React.js
 ###### DAY 068
 - Start the tic-tac-toe project on React.js
+###### DAY 069
+- Finished tic-tac-toe
+- Started the videos series 'react for everyone'
+- Reset the React part II on codecademy
