@@ -230,4 +230,7 @@ So good working on moibile css
 ###### DAY 069
 - Finished tic-tac-toe
 - Started the videos series 'react for everyone'
-- Reset the React part II on codecademy
+- Reset the React part II on CodeCademy
+###### DAY 070
+- Finish the videos of 'react for everyone'
+- React part II on CodeCademy
