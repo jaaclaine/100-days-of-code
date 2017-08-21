@@ -233,4 +233,8 @@ So good working on moibile css
 - Reset the React part II on CodeCademy
 ###### DAY 070
 - Finish the videos of 'react for everyone'
-- React part II on CodeCademy 
+###### DAY 071
+- Started to test webtasks
+- Small programming challenges
+###### DAY 072
+- React part II codecademy
