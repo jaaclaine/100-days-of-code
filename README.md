@@ -14,6 +14,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] API (now learning)
 - [ ] Angular 
 - [ ] Flexbox
+- [ ] SVG
 
 ## Ideas 
 - [ ] Tv show tracker 
@@ -237,4 +238,5 @@ So good working on moibile css
 - Started to test webtasks
 - Small programming challenges
 ###### DAY 072
-- React part II codecademy
+- [Lean an article about React](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+- To do App video tutorial
