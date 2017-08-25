@@ -5,7 +5,7 @@ Disclaimer: may contain english errors, forgive me.
 
 ## Learn list
 - [x] Javascript
-- [ ] ES6
+- [x] ES6
 - [x] jQuery 
 - [x] JSON
 - [x] AJAX  
