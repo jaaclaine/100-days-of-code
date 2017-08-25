@@ -240,3 +240,6 @@ So good working on moibile css
 ###### DAY 072
 - [Lean an article about React](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 - To do App video tutorial
+###### DAY 073
+- [A re-introduction to JavaScript (JS tutorial) - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- Started the React calculator
