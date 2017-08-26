@@ -243,3 +243,5 @@ So good working on moibile css
 ###### DAY 073
 - [A re-introduction to JavaScript (JS tutorial) - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - Started the React calculator 
+###### DAY 074
+- Finished the React calculator
