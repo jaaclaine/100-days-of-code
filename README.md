@@ -245,5 +245,4 @@ So good working on moibile css
 - Started the React calculator 
 ###### DAY 074
 - Finished the React calculator
-###### DAY 075
 
