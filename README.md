@@ -12,8 +12,7 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Node.js (now learning)
 - [ ] React.js (now learning)
 - [ ] API (now learning)
-- [ ] Angular 
-- [ ] Flexbox
+- [x] Flexbox
 - [ ] SVG
 
 ## Ideas 
@@ -246,4 +245,12 @@ So good working on moibile css
 ###### DAY 074
 - Finished the React calculator
 ###### DAY 075
+- Flexbox day! (read medium articles and css-tricks tutorals)
+- Flexbox froggy practice
+- [Codepen](https://codepen.io/jaaclaine/full/VMYpKM/)
+###### DAY 076
+- ES6 basics video by Academind
+- Codefights
+###### DAY 077
+- Object Oriented and Functional Programming FreeCodeCamp
 
