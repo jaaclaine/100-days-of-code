@@ -252,5 +252,10 @@ So good working on moibile css
 - ES6 basics video by Academind
 - Codefights
 ###### DAY 077
-- Object Oriented and Functional Programming FreeCodeCamp
-
+- Object Oriented and Functional Programming at FreeCodeCamp
+###### DAY 078
+- Codecademy React part II 100%
+###### DAY 079
+- React.js Introduction for people who know just enough jquery to get by
+###### DAY 080
+- FreeCodeCamp JSON APIs and Ajax
