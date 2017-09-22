@@ -18,7 +18,6 @@ Disclaimer: may contain english errors, forgive me.
 ## Ideas 
 - [ ] Tv show tracker 
 - [x] Button party (Like / Share / Reaction / 5 stars)
-- [ ] Mobile menu party
 - [x] Pomodoro clock
 - [ ] Dashboard
 - [x] Calendar (add event)
@@ -26,7 +25,6 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Local weather
 - [ ] Paralax
 - [x] Text page
-- [ ] Game page
 - [ ] Book shelf
 - [ ] Timeline 
 - [ ] Animation 
@@ -34,12 +32,11 @@ Disclaimer: may contain english errors, forgive me.
 - [ ] Drag and drop
 - [x] "Crack the code" game
 - [ ] Search filter
-- [ ] Doodle board
 - [ ] Logo SVG animation
 - [ ] Generator
 - [x] Text Editor
 - [ ] Goodreads API (TBR jar)
-- [ ] Spotify API (cd search)
+- [ ] Spotify API (album search)
 - [x] Twitter Bot
 - [x] Portfolio
 - [x] Redesign
@@ -259,3 +256,7 @@ So good working on moibile css
 - React.js Introduction for people who know just enough jquery to get by
 ###### DAY 080
 - FreeCodeCamp JSON APIs and Ajax
+###### DAY 081
+- React tutorial movie app
+###### DAY 082
+- Started FreeCodeCamp Basic Algorithm Scripting
