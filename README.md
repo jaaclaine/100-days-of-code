@@ -9,9 +9,9 @@ Disclaimer: may contain english errors, forgive me.
 - [x] jQuery 
 - [x] JSON
 - [x] AJAX  
-- [ ] Node.js (now learning)
-- [ ] React.js (now learning)
-- [ ] API (now learning)
+- [x] Node.js 
+- [x] React.js
+- [x] API 
 - [x] Flexbox
 - [ ] SVG
 
@@ -23,7 +23,7 @@ Disclaimer: may contain english errors, forgive me.
 - [x] Calendar (add event)
 - [x] Form
 - [ ] Local weather
-- [ ] Paralax
+- [x] Paralax
 - [x] Text page
 - [ ] Book shelf
 - [ ] Timeline 
